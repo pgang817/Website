@@ -1,0 +1,1657 @@
+.webpage .vector-7 {
+  width: 30.7px;
+  height: 32px;
+}
+.webpage .icons-wand {
+  margin: 0.6px 12.8px 0.4px 0;
+  display: flex;
+  width: 33.1px;
+  height: 33.9px;
+  box-sizing: border-box;
+}
+.webpage .vng-rides {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 26.4px;
+  letter-spacing: 1.4px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #222120;
+}
+.webpage .frame-7 {
+  margin-top: 17px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.webpage .home {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: #000000;
+}
+.webpage .frame-427318889 {
+  margin: 16px 47.3px 16px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .about {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: #000000;
+}
+.webpage .frame-427318893 {
+  margin: 16px 47.1px 16px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .services {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: #000000;
+}
+.webpage .frame-427318891 {
+  margin: 16px 47.1px 16px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .conta-ct {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: white;
+}
+/* .webpage .rectangle-2 {
+  border-radius: 10px;
+  border: 1px solid #931022;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 145px;
+  height: 50px;
+} */
+.webpage .frame-427318892 {
+  position: relative;
+  display: flex;
+  padding: 16px 0px 16px 0;
+  width: 145px;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  border-color: #931022;
+  border: 1px solid red;
+  border-radius: 10px;
+  background-color: #931022;
+  color: white;
+
+}
+
+.webpage .frame-71 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+.frame-427318889, .frame-427318893, .frame-427318891  {
+  margin: 0 15px;
+}
+.frame-427318889 span, .frame-427318893 span, .frame-427318891 span,  span {
+  font-size: 18px;
+  cursor: pointer;
+  transition: color 0.3s ease,font-weight 0.3s ease, text-decoration 0.3s ease;
+}
+
+.webpage .page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 134px 19px 135.5px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.webpage .frame-6 {
+  margin-bottom: 2px;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.webpage .vng-rides-1 {
+  margin: 0 468.7px 32px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 1.25;
+  color: #FFFFFF;
+}
+.webpage .frame {
+  margin-bottom: 32px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #FFFFFF;
+}
+.webpage .view-services {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  transition: color 0.3s, font-weight 0.3s, text-decoration 0.3s;
+}
+
+.webpage .frame-24 {
+  margin-right: 600.1px;
+  display: flex;
+  width: 194.4px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.webpage .frame-23-variant-2 {
+  background: url('../assets/images/frame_23_variant_2.png');
+  display: flex;
+  background-position: center 50%;
+  flex-direction: column;
+  align-items: center;
+  padding: 226px 0 252px 0;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.webpage .frame-427318906 {
+  margin-bottom: 75px;
+  display: flex;
+  width: 1460px;
+  box-sizing: border-box;
+}
+.webpage .welcome-to-vng-rides {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.25;
+  color: #931022;
+}
+.webpage .at-vng-rides-we-are-dedicated-to-providing-top-notch-transportation-services-tailored-to-meet-your-needs-whether-youre-commuting-daily-attending-special-events-traveling-with-family-or-heading-to-the-airport-we-have-the-perfect-ride-for-you-our-professional-drivers-and-well-maintained-vehicles-ensure-acomfortable-safe-and-reliable-journey-every-time-choose-vng-rides-for-an-exceptional-travel-experience {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #000000;
+}
+.webpage .contact-us-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: #000000;
+}
+.webpage .line-1 {
+  background: #000000;
+  position: absolute;
+  right: 0.2px;
+  bottom: 0px;
+  width: 80px;
+  height: 0px;
+}
+.webpage .frame-427318895 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.webpage .frame-427318907 {
+  margin: 163.5px 100.2px 163.5px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.webpage .image-18 {
+  background: url('../assets/images/image_18.png') 50% / cover no-repeat;
+  width: 500px;
+  height: 664px;
+}
+.webpage .frame-72 {
+  margin: 0 0 59px 14px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .our-services {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #931022;
+}
+.webpage .explore-our-offerings {
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .frame-73 {
+  margin: 0 803.5px 72.8px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .image-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  margin-bottom: 19.3px;
+  width: 331px;
+  height: 214px;
+}
+.webpage .city-rides {
+  margin-right: 6.8px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .vector {
+  width: 8.7px;
+  height: 15.1px;
+}
+.webpage .icon {
+  margin: 5px 0 4.9px 0;
+  display: flex;
+  width: 9.4px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.webpage .divitems-grid-header {
+  margin: 0 24.8px 20.7px 24.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .experience-the-ultimate-convenience-and-comfort-with-city-rides-cab-service {
+  margin: 0 21.9px 0 28px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 2.273;
+  color: #222120;
+}
+.webpage .city-rides-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 24px;
+  box-sizing: border-box;
+}
+.webpage .frame-427318899 {
+  margin-bottom: 1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .image-7 {
+  background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+  margin-bottom: 15.3px;
+  width: 332px;
+  height: 214px;
+}
+.webpage .image-15 {
+  background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+  margin-bottom: 15.3px;
+  width: 332px;
+  height: 214px;
+}
+.webpage .outstaion-rides-1 {
+  margin-right: 7.6px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .vector-1 {
+  margin: 5.7px 0 4.2px 0;
+  width: 8.7px;
+  height: 15.1px;
+}
+.webpage .divitems-grid-header-1 {
+  margin: 0 22px 20.7px 22px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .our-outstation-cab-service-is-you-perfect-travel-companion-for-journeys-outside-the-city-limits {
+  margin: 0 25px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 2.273;
+  color: #222120;
+}
+.webpage .outstaion-rides {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 28px;
+  box-sizing: border-box;
+}
+.webpage .frame-427318900 {
+  margin-bottom: 1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .image-71 {
+  background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+  margin-bottom: 15.3px;
+  width: 331px;
+  height: 214px;
+}
+.webpage .airport-rides-1 {
+  margin-right: 10.9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .vector-2 {
+  margin: 5.7px 0 4.2px 0;
+  width: 8.7px;
+  height: 15.1px;
+}
+.webpage .divitems-grid-header-2 {
+  margin: 0 23px 16.7px 23px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .say-goodbye-to-the-hassles-of-parking-navigating-traffic-and-worrying-about-missing-your-flight {
+  margin: 0 24.2px 0 23px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 2.273;
+  color: #222120;
+}
+.webpage .container-11 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 331px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.webpage .image-8 {
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -1px;
+  top: 0px;
+  width: 332px;
+  height: 214px;
+}
+.webpage .airport-rides {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 0 1px 32px 0;
+  width: 331px;
+  box-sizing: border-box;
+}
+.webpage .frame-427318901 {
+  margin-top: 1px;
+  display: flex;
+  
+  box-sizing: border-box;
+}
+.webpage .container-15 {
+  margin-bottom: 43px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .image-9 {
+  background: url('../assets/images/image_9.png');
+  margin-bottom: 15.3px;
+  width: 331px;
+  height: 214px;
+}
+.webpage .corporate-rides-1 {
+  margin-right: 8.8px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .vector-4 {
+  margin: 5.7px 0 4.2px 0;
+  width: 8.7px;
+  height: 15.1px;
+}
+.webpage .divitems-grid-header-4 {
+  margin: 0 22px 16.7px 22px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .it-ensures-reliable-transportation-for-meetings-site-visits-and-other-work-related-activities {
+  margin: 0 22px 200.3px 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 2.273;
+  color: #222120;
+}
+.webpage .city-rides-2 {
+  margin-right: 6.8px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .vector-3 {
+  width: 8.7px;
+  height: 15.1px;
+}
+.webpage .icon-1 {
+  margin: 5px 0 4.9px 0;
+  display: flex;
+  width: 9.4px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.webpage .divitems-grid-header-3 {
+  margin: 0 24.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .corporate-rides {
+  background: #FFFEFE;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.webpage .frame-427318909 {
+  margin-right: 40px;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .image-14 {
+  background: url('../assets/images/image_14.png') 50% / cover no-repeat;
+  margin-bottom: 15.3px;
+  width: 331px;
+  height: 214px;
+}
+.webpage .special-event-rides {
+  margin-right: 11.6px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .vector-5 {
+  margin: 5.7px 0 4.2px 0;
+  width: 8.7px;
+  height: 15.1px;
+}
+.webpage .divitems-grid-header-5 {
+  margin: 0 22px 16.7px 22px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .make-your-special-occasions-even-more-memorable-with-vng-rides {
+  margin: 0 22px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 2.273;
+  color: #4F4F4F;
+}
+.webpage .special-event {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 32px;
+  box-sizing: border-box;
+}
+.webpage .frame-427318903 {
+  margin-right: 39px;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .image-12 {
+  background: url('../assets/images/image_12.png') 50% / cover no-repeat;
+  margin-bottom: 15.3px;
+  width: 331px;
+  height: 214px;
+}
+.webpage .family-rides-1 {
+  margin-right: 12.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .vector-6 {
+  margin: 5.7px 0 4.2px 0;
+  width: 8.7px;
+  height: 15.1px;
+}
+.webpage .divitems-grid-header-6 {
+  margin: 0 22px 16.7px 22px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .family-rides-cab-service-ensures-acomfortable-and-enjoyable-journey-for-you-and-your-loved-ones {
+  margin: 0 12.6px 0 19px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 2.273;
+  color: #4F4F4F;
+}
+.webpage .family-rides {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 32px;
+  box-sizing: border-box;
+}
+.webpage .frame-427318902 {
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .container-1 {
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .group-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .sectionservices {
+  background: #EAEAEA;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+  width: 100%;
+  box-sizing: border-box;
+  min-height: 100px;
+  margin: 0;
+}
+.webpage .sectionservices::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.webpage .contact-us {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #931022;
+}
+.webpage .whether-you-have-aquestionneed-assistance-or-want-to-provide-feedback-our-team-at-vng-rides-is-here-to-help {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .frame-427318910 {
+  margin-bottom: 21.2px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+  align-items: flex-start; /* Align items to the left */
+  gap: 10px;
+  margin-left: 80px;
+}
+.form-container {
+  margin-left: 80px; /* Adjust the value as needed */
+}
+.webpage .container-7 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #E20101;
+}
+.webpage .name {
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.webpage .jane-smith {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgba(34, 33, 32, 0.5);
+}
+.webpage .divform-group {
+  position: relative;
+  margin-bottom: 13px;
+  align-self: flex-start;
+  width: fit-content;
+  height: 70px;
+  box-sizing: border-box;
+}
+.webpage .container-8 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #E20101;
+}
+.webpage .email-address {
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.webpage .emailwebsite-com {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgba(34, 33, 32, 0.5);
+}
+.webpage .divform-group-1 {
+  position: relative;
+  margin-bottom: 13px;
+  align-self: flex-start;
+  padding-bottom: 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .container-9 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #E20101;
+}
+.webpage .phone-number {
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .container-12 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.webpage .container-10 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgba(34, 33, 32, 0.5);
+}
+.webpage .divform-group-2 {
+  position: relative;
+  margin-bottom: 13px;
+  align-self: flex-start;
+  width: fit-content;
+  height: 70px;
+  box-sizing: border-box;
+}
+.webpage .message {
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .textareaunique-id-4-c-2-df-8-d-75880-f-48-ad-9-d-0-c-5-ed-4-ba-94571-b {
+  border: 1px solid #999999;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 406.7px;
+  height: 126px;
+}
+.webpage .divform-group-3 {
+  position: relative;
+  margin-bottom: 19.5px;
+  padding-bottom: 131.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .div {
+  border: 1px solid #999999;
+  background: #FFFFFF;
+  margin: 0 7px 2px 0;
+  width: 18px;
+  height: 18px;
+}
+.webpage .iallow-this-website-to-store-my-submission-so {
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .container-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .they-can-respond-to-my-inquiry {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #222120;
+}
+.webpage .labelform-label {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .submit {
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.webpage .buttonsb-button {
+  border-radius: 6px;
+  border: 1px solid #931022;
+  background: #931022;
+  margin-right: 1.7px;
+  display: flex;
+  padding: 14px 10.4px 14px 0;
+  width: 405px;
+  box-sizing: border-box;
+}
+.webpage .form-ul-form-cb-9-df-9-d-7-cc-344-d-63-a-51-cf-2-cd-02-fbb-6-bd {
+  margin: 0 0.5px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.webpage .container-4 {
+  margin: 90px 41.4px 0 0;
+  display: flex;
+  flex: 1;
+  max-width: 50%;
+  flex-direction: column;
+  width: 477.6px;
+  box-sizing: border-box;
+  padding-left: 80px;
+  padding-bottom: 100px;
+}
+.webpage .contact-us-1 {
+  margin: 0 204.7px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Helvetica', 'Roboto Condensed';
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.25;
+  color: #222120;
+}
+
+
+
+
+.webpage .sectioncontact {
+  background: #FFFFFF;
+  margin: 5px 10px 10px 10px;
+  display: flex;
+  flex-direction: row;
+  width: 1425px;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px; /* Space between the left and right sections */
+  padding: 20px;
+}
+.webpage .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.webpage .services-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.webpage .frame-14 {
+  margin-bottom: 0.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .about-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.webpage .frame-28 {
+  margin-top: 0.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .contact {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.webpage .frame-18 {
+  margin-top: 0.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.webpage .frame-26 {
+  margin: 18.5px 0 19px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 360.8px;
+  height: fit-content;
+  box-sizing: border-box;
+  padding: 5px 0;
+}
+.webpage .vector-8 {
+  width: 30.7px;
+  height: 32px;
+}
+.webpage .icons-wand-1 {
+  margin: 1.1px 12.8px 0 0;
+  display: flex;
+  width: 33.1px;
+  height: 33.9px;
+  box-sizing: border-box;
+}
+.webpage .vng-rides-2 {
+  margin-bottom: 0.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 26.4px;
+  letter-spacing: 1.4px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #000000;
+}
+.webpage .frame-427318905 {
+  border-radius: 15px;
+  background: #D9D9D9;
+  display: flex;
+  flex-direction: row;
+  padding: 11.5px 17px 17px 17.5px;
+  box-sizing: border-box;
+}
+.frame-427318907 .welcome-to-vng-rides {
+  margin-bottom: 50px; /* Adjust the value as needed */
+}
+
+.frame-427318907 .matter {
+  margin-bottom: 50px; /* Adjust the value as needed */
+}
+
+
+
+.webpage {
+  background: #FFFFFF;
+  display: flex;
+  
+  margin: 0 auto;
+  padding-bottom: 65.5px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.contact-description {
+  font-size: 16px;
+  color: #666; /* Adjust color as needed */
+  line-height: 1.5;
+}
+
+/* Form container styling */
+.form-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px; 
+  max-width: 50%; 
+}
+
+/* Form group styling */
+.form-group {
+  display: flex;
+  flex-direction: column; 
+  gap: 5px;
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333; 
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="tel"],
+.form-group textarea {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-group textarea {
+  height: 100px;
+  resize: vertical;
+}
+
+/* Checkbox group styling */
+.checkbox-group {
+  display: flex;
+  align-items: center; /* Align checkbox and label vertically */
+}
+
+.checkbox-group input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+
+.form-group button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #931022;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.form-group button:hover {
+  background-color: #7a0d1d;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.view-services {
+  color: #fff; /* Default color */
+  font-weight: bold;
+  text-decoration: none; /* Remove underline */
+  transition: color 0.3s, font-weight 0.3s, text-decoration 0.3s;
+}
+
+.view-services:hover {
+  color: #931022; /* Change color on hover */
+  text-decoration: underline; /* Add underline on hover */
+  text-decoration-thickness: 2px;
+  font-weight: bold; /* Keep bold on hover */
+}
+body {
+  scroll-behavior: smooth; /* Smooth scroll for modern browsers */
+}
+
+.frame-427318892 {
+  position: relative;
+}
+
+.rectangle-2 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background-color: transparent;
+  transition: background-color 0.3s;
+}
+
+
+
+/* Centering text in .view-services */
+.view-services {
+  display: inline-block;
+  text-align: center;
+}
+html {
+  scroll-behavior: smooth; /* Ensure smooth scrolling */
+}
+
+.footer a {
+  text-decoration: none; /* Remove default underline */
+  color: inherit; /* Inherit color from parent, can be overridden */
+  position: relative; /* For positioning the pseudo-element */
+}
+
+.footer a::after {
+  content: ''; /* Create an empty content for the pseudo-element */
+  display: block; /* Display as block to have height */
+  height: 2px; /* Thickness of the underline */
+  background-color: white; /* Color of the underline */
+  position: absolute; /* Position it absolutely */
+  left: 0; /* Align to the left */
+  bottom: -4px; /* Position below the text */
+  width: 0; /* Start with width 0 */
+  transition: width 0.3s; /* Smooth transition for width */
+}
+
+.footer a:hover::after {
+  width: 100%; /* Make underline full width on hover */
+}
+
+.frame-26 a {
+  color: white; /* Default color */
+}
+
+.frame-26 a:hover {
+  color: white; /* Color on hover */
+}
+/* Basic styles for links */
+.frame-71 a {
+  text-decoration: none; /* Remove default underline */
+  color: inherit; /* Use inherited color from parent or specify default color */
+  font-weight: normal; /* Default font weight */
+  position: relative; /* For positioning the pseudo-element */
+  transition: font-weight 0.3s, color 0.3s; /* Smooth transitions */
+}
+
+/* Add underline effect on hover */
+.frame-71 a::after {
+  content: ''; /* Create an empty content for the pseudo-element */
+  display: block; /* Ensure the pseudo-element takes up space */
+  height: 4px; /* Thickness of the underline (adjust as needed) */
+  background-color: #931022; /* Color of the underline */
+  position: absolute; /* Position it absolutely */
+  left: 0; /* Align to the left */
+  bottom: -4px; /* Position it below the text (adjust as needed) */
+  width: 0; /* Start with width 0 */
+  transition: width 0.3s; /* Smooth transition for width */
+}
+
+/* Hover effect for the links */
+.frame-71 a:hover {
+  font-weight: bold; /* Make text bold on hover */
+  color: #931022; /* Change text color on hover */
+}
+
+.frame-71 a:hover::after {
+  width: 100%; /* Expand underline to full width on hover */
+}
+.contact-us-2 {
+  text-decoration: none; /* Remove underline */
+  font-weight: normal; /* Default font weight */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.contact-us-2:hover {
+  text-decoration: underline; /* Add underline on hover */
+  text-decoration-thickness: 2px; /* Thickness of the underline */
+  font-weight: bold; /* Bold font weight on hover */
+  text-decoration-color: black; /* Optional: Change underline color */
+}
+.contact-us-2 {
+  text-decoration: none; /* Remove underline */
+  font-weight: normal; /* Default font weight */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.contact-us-2:hover {
+  text-decoration: underline; /* Add underline on hover */
+  text-decoration-thickness: 2px; /* Thickness of the underline */
+  font-weight: bold; /* Bold font weight on hover */
+  text-decoration-color: black; /* Optional: Change underline color */
+}
+/* Base styles for the boxes */
+.frame-427318899, .frame-427318900, .frame-427318901 {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect to lift the box */
+.frame-427318899:hover, 
+.frame-427318900:hover, 
+.frame-427318901:hover {
+  transform: translateY(-10px); /* Move the box up */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow */
+}
+
+/* Styles for header text and vector icons */
+.divitems-grid-header span, .divitems-grid-header-1 span, .divitems-grid-header-2 span {
+  transition: color 0.3s ease;
+}
+
+/* Hover effect for header text */
+.frame-427318899:hover .divitems-grid-header span, 
+.frame-427318900:hover .divitems-grid-header-1 span, 
+.frame-427318901:hover .divitems-grid-header-2 span {
+  color: #931022; /* Change text color to red on hover */
+}
+
+/* Vector icon color change */
+.divitems-grid-header .icon img, 
+.divitems-grid-header-1 .icon img, 
+.divitems-grid-header-2 .icon img {
+  transition: filter 0.3s ease;
+}
+
+/* Hover effect for vector icons */
+.frame-427318899:hover .divitems-grid-header .icon img, 
+.frame-427318900:hover .divitems-grid-header-1 .icon img, 
+.frame-427318901:hover .divitems-grid-header-2 .icon img {
+  filter: hue-rotate(0deg) brightness(0) saturate(10000%) sepia(100%) hue-rotate(-50deg) brightness(0.5) contrast(1.5); /* Filter to achieve red color */
+}
+.frame-427318892 .conta-ct {
+  text-decoration: none;
+  color: white; /* Ensure that text color is set to its initial state */
+  
+}
+
+.frame-427318892 .conta-ct:hover {
+  color: white; /* Ensure text color is red to maintain visibility */
+  
+}
+.webpage .group-1 {
+  margin: 256px 0 169.5px 0; /* Margins around the container */
+  display: flex;
+   
+  width: 550px; /* Ensure this width is appropriate */
+  height: 650px; /* Height adjusts based on content */
+  max-width: 100%; /* Ensure the container does not exceed its parent width */
+  margin-right: 50px; /* Adjust or remove margin as needed */
+  box-sizing: border-box;
+  margin-top: 105px;
+}
+
+.webpage .group-1 img {
+  max-width: 100%; /* Ensure image fits within container */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+.footer {
+  position: flex;
+  color: #FFFFFF;
+  background:#0a0a0a;
+  position: relative;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px 30px;
+  width: 100%;
+  height: 60px;
+  box-sizing: border-box;
+  padding-top: 20px;
+  flex: 1;
+  
+}
+.existing-content {
+  display: flex;
+  flex-direction: row; /* Keep existing content in row layout */
+  flex-wrap: wrap; /* Allow wrapping if necessary */
+  justify-content: space-between; /* Distribute space between items */
+  align-items: center;
+
+  width: 100%; /* Ensure it takes full width */
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-bottom {
+  position: relative;
+  padding: 10px 0;
+  text-align: center; /* Center the text */
+  color: #ffffff; /* Text color */
+  background-color: #000000; /* Background color */
+}
+.footer-bottom::before{
+content: '';
+position: absolute;
+left: 0;
+right: 0;
+height: 1px; /* Thickness of the line */
+background-color: #ffffff; /* Color of the line */
+}
+
+
+
+
+.new-footer-line {
+  padding: 0px; /* Add padding as needed */
+  margin: 20px 0;
+  color: #fbfafa; /* Text color */
+  text-align: left; /* Center the text */
+  width: 100%; /* Ensure it takes full width */
+  box-sizing: border-box; /* Include padding and border in the element’s total width and height */
+}
+.new-footer-line p,
+.additional-lines p {
+  margin: 0; /* Remove default margin for paragraphs */
+  padding: 0; /* Remove default padding for paragraphs */
+}
+.additional-lines {
+  
+  text-align: left;
+  width: 100%;
+  margin-top: 5px;
+  
+  box-sizing: border-box;
+  font-size: 14px; /* Adjust font size if needed */
+}
+.footer a::after {
+  content: ''; /* Create an empty content for the pseudo-element */
+  display: block; /* Display as block to have height */
+  height: 2px; /* Thickness of the underline */
+  background-color: white; /* Color of the underline */
+  position: absolute; /* Position it absolutely */
+  left: 0; /* Align to the left */
+  bottom: -4px; /* Position below the text */
+  width: 0; /* Start with width 0 */
+  transition: width 0.3s; /* Smooth transition for width */
+}
+
+.footer a:hover::after {
+  width: 100%; /* Make underline full width on hover */
+}
+.footer a {
+  text-decoration: none; /* Remove default underline */
+  color: inherit; /* Inherit color from parent, can be overridden */
+  position: relative; /* For positioning the pseudo-element */
+}
+.frame-26 {
+  margin: 18.5px 0 19px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 360.8px;
+  height: fit-content;
+  box-sizing: border-box;
+  padding: 5px 0;
+}
+.frame-26 a {
+  color: white; /* Default color */
+}
+
+.frame-26 a:hover {
+  color: white; /* Color on hover */
+}
+.frame-427318905 {
+  border-radius: 15px;
+  background: #D9D9D9;
+  display: flex;
+  flex-direction: row;
+  padding: 11.5px 17px 17px 17.5px;
+  box-sizing: border-box;
+}
+.icons-wand-1 {
+  margin: 1.1px 12.8px 0 0;
+  display: flex;
+  width: 33.1px;
+  height: 33.9px;
+  box-sizing: border-box;
+}
+.vng-rides-2 {
+  margin-bottom: 0.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 26.4px;
+  letter-spacing: 1.4px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #000000;
+}
+.social-media-icons {
+  display: flex;
+  gap: 50px; /* Space between icons */
+  justify-content: left;
+  margin-top: 10px;
+}
+
+.social-icon {
+  color: orangered; /* White color for the icons */
+  font-size: 24px; /* Size of the icons */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.social-icon:hover {
+  color: #0d9fe3; /* Color change on hover (optional) */
+}
+.playstore-link {
+  display: flex;
+  align-items: center;
+   /* Background color of the box */
+  border: 2px solid #fdfafa; /* Thinner black border */
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px 10px; /* Reduced padding */
+  margin-top: 10px; /* Space above the Play Store box */
+  color: #32303094; /* Text color inside the box */
+  text-decoration: none; /* Remove underline */
+  font-size: 14px; /* Smaller text size */
+  width: 125px;
+  font-size: 15px; /* Size of the Google Play icon */
+  margin-right: 5px;
+}
+
+
+.playstore-link:hover {
+  text-decoration: none; /* Ensure no underline on hover */
+}
+
+.playstore-link i {
+  margin-right: 10px; /* Reduced space between icon and text */
+}
+.data {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 65px 35.4px 55px 35px;
+  width: 100%;
+  box-sizing: border-box;
+  
+}
+
+ .best-places-to-visit-in-hyderabad {
+  margin: 0 0 36px 0;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 36px;
+  color: #1E1E1E;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+ .charminar {
+  margin: 0 0 54px 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  text-decoration: underline;
+  color: #000000;
+  text-align: center;
+}
+
+ .containerr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+ .containerr-1,  .containerr-2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 30px;
+  color: #000000;
+  margin: 0 20px;
+  cursor: pointer; /* Makes the arrows look clickable */
+}
+
+ .group-2 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+ .image-1 {
+  border-radius: 10px;
+  background: url('../assets/images/image_1.png') center / cover no-repeat;
+  width: 550px;
+  height: 353px;
+}
+.image-2 {
+  border-radius: 10px;
+  background: url('../assets/images/image_2.png') center / cover no-repeat;
+  width: 550px;
+  height: 353px;
+}
+.image-3 {
+  border-radius: 10px;
+  background: url('../assets/images/image_24.png') center / cover no-repeat;
+  width: 550px;
+  height: 353px;
+}
+.image-4 {
+  border-radius: 10px;
+  background: url('../assets/images/image_23.png') center / cover no-repeat;
+  width: 550px;
+  height: 353px;
+}
+.image-5 {
+  border-radius: 10px;
+  background: url('../assets/images/image_21.png') center / cover no-repeat;
+  width: 550px;
+  height: 353px;
+}
+.image-88 {
+  border-radius: 10px;
+  background: url('../assets/images/image_44.png') center / cover no-repeat;
+  width: 550px;
+  height: 353px;
+}
+ .description {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+  max-width: 500px;
+  text-align: justify;
+}
+
+/* Example media query for small screens */
+@media (max-width: 768px) {
+  .data .container {
+      flex-direction: column;
+      align-items: center;
+  }
+  .data .description {
+      font-size: 14px;
+  }
+  /* Adjust other styles as needed */
+}
+
+
+
+
+

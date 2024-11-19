@@ -1,0 +1,403 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .desktop-5 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    box-sizing: border-box;
+  }
+  
+  .header {
+    background: #FFFFFF;
+    height: 50px;
+    padding: 0 80px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-arrow {
+    display: flex;
+    align-items: center;
+  }
+  
+  .icons-wand {
+    margin-right: 10px;
+  }
+  
+  .vector {
+    width: 30.7px;
+    height: 32px;
+  }
+  
+  .vng-rides {
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 26.4px;
+    letter-spacing: 1.4px;
+    line-height: 1.25;
+    text-transform: uppercase;
+    color: #222120;
+    margin-right: 10px;
+  }
+  
+  /* .arrow-back-1 {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    position: relative;
+    top: 60px;
+    margin-left: -100px;
+    left: -100px;
+  } */
+  
+  .main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  
+  .image-container {
+    width: 321px;
+    height: 377px;
+    margin-right: 20px;
+    background: url('../assets/images/image_14.png') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .airport-rides {
+    margin-bottom: 10px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 1px;
+    color: #931022;
+  }
+  
+  .experience {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #000000;
+  }
+  
+  .footer {
+    position: flex;
+    color: #FFFFFF;
+    background:#000000;
+    position: relative;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px 30px;
+    width: 100%;
+    height: 60px;
+    box-sizing: border-box;
+    padding-top: 20px;
+    flex: 1;
+    
+  }
+  .existing-content {
+    display: flex;
+    flex-direction: row; /* Keep existing content in row layout */
+    flex-wrap: wrap; /* Allow wrapping if necessary */
+    justify-content: space-between; /* Distribute space between items */
+    align-items: center;
+  
+    width: 100%; /* Ensure it takes full width */
+  }
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  .footer-bottom {
+    position: relative;
+    padding: 10px 0;
+    text-align: center; /* Center the text */
+    color: #ffffff; /* Text color */
+    background-color: #000000; /* Background color */
+  }
+  .footer-bottom::before{
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1px; /* Thickness of the line */
+  background-color: #ffffff; /* Color of the line */
+}
+
+
+
+
+  .new-footer-line {
+    padding: 0px; /* Add padding as needed */
+    margin: 20px 0;
+    color: #fbfafa; /* Text color */
+    text-align: left; /* Center the text */
+    width: 100%; /* Ensure it takes full width */
+    box-sizing: border-box; /* Include padding and border in the element’s total width and height */
+  }
+  .new-footer-line p,
+.additional-lines p {
+    margin: 0; /* Remove default margin for paragraphs */
+    padding: 0; /* Remove default padding for paragraphs */
+}
+  .additional-lines {
+    
+    text-align: left;
+    width: 100%;
+    margin-top: 5px;
+    
+    box-sizing: border-box;
+    font-size: 14px; /* Adjust font size if needed */
+  }
+  .footer a::after {
+    content: ''; /* Create an empty content for the pseudo-element */
+    display: block; /* Display as block to have height */
+    height: 2px; /* Thickness of the underline */
+    background-color: white; /* Color of the underline */
+    position: absolute; /* Position it absolutely */
+    left: 0; /* Align to the left */
+    bottom: -4px; /* Position below the text */
+    width: 0; /* Start with width 0 */
+    transition: width 0.3s; /* Smooth transition for width */
+  }
+  
+  .footer a:hover::after {
+    width: 100%; /* Make underline full width on hover */
+  }
+  .footer a {
+    text-decoration: none; /* Remove default underline */
+    color: inherit; /* Inherit color from parent, can be overridden */
+    position: relative; /* For positioning the pseudo-element */
+  }
+  .frame-26 {
+    margin: 18.5px 0 19px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 360.8px;
+    height: fit-content;
+    box-sizing: border-box;
+    padding: 5px 0;
+  }
+  .frame-26 a {
+    color: white; /* Default color */
+  }
+  
+  .frame-26 a:hover {
+    color: white; /* Color on hover */
+  }
+  .frame-427318905 {
+    border-radius: 15px;
+    background: #D9D9D9;
+    display: flex;
+    flex-direction: row;
+    padding: 11.5px 17px 17px 17.5px;
+    box-sizing: border-box;
+  }
+  .icons-wand-1 {
+    margin: 1.1px 12.8px 0 0;
+    display: flex;
+    width: 33.1px;
+    height: 33.9px;
+    box-sizing: border-box;
+  }
+  .vng-rides-2 {
+    margin-bottom: 0.1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 26.4px;
+    letter-spacing: 1.4px;
+    line-height: 1.25;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .social-media-icons {
+    display: flex;
+    gap: 20px; /* Space between icons */
+    justify-content: left;
+    margin-top: 10px;
+  }
+  
+  .social-icon {
+    color: orangered; /* White color for the icons */
+    font-size: 24px; /* Size of the icons */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .social-icon:hover {
+    color: #0d9fe3; /* Color change on hover (optional) */
+  }
+  .playstore-link {
+    display: flex;
+    align-items: center;
+     /* Background color of the box */
+    border: 2px solid #fdfafa; /* Thinner black border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 5px 10px; /* Reduced padding */
+    margin-top: 10px; /* Space above the Play Store box */
+    color: #000000; /* Text color inside the box */
+    text-decoration: none; /* Remove underline */
+    font-size: 14px; /* Smaller text size */
+    width: 150px;
+  }
+  
+  
+  .playstore-link:hover {
+    text-decoration: none; /* Ensure no underline on hover */
+  }
+  
+  .playstore-link i {
+    margin-right: 10px; /* Reduced space between icon and text */
+  }
+  /* Base styles (for large screens) */
+  
+  /* Large screens (desktops and laptops) */
+  @media (min-width: 1200px) {
+    .header {
+      height: 70px;
+      padding: 0 100px;
+    }
+  
+    .logo-arrow {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+    }
+  
+    .vector {
+      width: 30.7px;
+      height: 32px;
+    }
+  
+    .vng-rides {
+      font-size: 26.4px;
+    }
+  
+    .main-content {
+      margin: 100px;
+      flex-direction: row;
+    }
+  
+    .image-container {
+      width: 550px;
+      height: 400px;
+    }
+  
+    .content {
+      font-size: 26px;
+    }
+  }
+  
+  /* Medium screens (tablets) */
+  @media (max-width: 1199px) and (min-width: 768px) {
+    .header {
+      height: 60px;
+      padding: 0 60px;
+    }
+  
+    .logo-arrow {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+    }
+  
+    .vector {
+      width: 28px;
+      height: 28px;
+    }
+  
+    .vng-rides {
+      font-size: 24px;
+    }
+  
+    .main-content {
+      margin: 60px;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .image-container {
+      width: 500px;
+      height: 350px;
+    }
+  
+    .content {
+      font-size: 22px;
+    }
+  }
+  
+  /* Small screens (mobile devices) */
+  @media (max-width: 766px) {
+    .header {
+      height: 50px;
+      padding: 0 20px;
+    }
+  
+    .logo-arrow {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: row;
+    }
+  
+    .vector {
+      width: 20px;
+      height: 20px;
+    }
+  
+    .vng-rides {
+      font-size: 18px;
+      margin: 0 10px; /* Adjust spacing as needed */
+    }
+  
+    .arrow-back-1 {
+      display: none;
+    }
+  
+    .main-content {
+      margin: 20px;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .image-container {
+      display: none; /* Hide image on small screens */
+    }
+  
+    .content {
+      font-size: 16px; /* Decrease text size further */
+    }
+  
+    .footer {
+      height: 80px;
+      padding: 20px;
+    }
+  
+    .new-footer-line {
+      padding: 5px;
+      font-size: 14px;
+    }
+  }
+  
